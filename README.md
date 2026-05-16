@@ -4,19 +4,6 @@
 
 A complete AI-driven penetration testing laboratory integrating offensive security automation, real-time SIEM monitoring, and digital forensics analysis.
 
----
-
-## 👥 Team
-
-- **Kareem Tamer Yousef** - Registration No: 231012043 (Infrastructure Lead)
-- **Yousef Ahmed Fawzy** - Registration No: 231001984
-
-**Institution:** Arab Academy for Science, Technology & Maritime Transport (AASTMT)  
-**Course:** Cybersecurity  
-**Date:** May 2026
-
----
-
 ## 📋 Table of Contents
 
 - [Project Overview](#project-overview)
@@ -395,16 +382,6 @@ Successfully recovered tool invocation strings and network traffic references.
 ## 📜 License
 
 Educational project for academic purposes at AASTMT Alexandria.
-
----
-
-## 🙏 Acknowledgments
-
-- Arab Academy for Science, Technology & Maritime Transport (AASTMT)
-- College of Computing & Information Technology
-- Cybersecurity Program Faculty
-- Groq Cloud (LLM inference platform)
-- Zebbern MCP project contributors
 
 ---
 
