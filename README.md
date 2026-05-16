@@ -1,7 +1,5 @@
 # AI System Security & Forensics Lab
 
-**AASTMT Alexandria - Cybersecurity Project 2026**
-
 A complete AI-driven penetration testing laboratory integrating offensive security automation, real-time SIEM monitoring, and digital forensics analysis.
 
 ## 📋 Table of Contents
